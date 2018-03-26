@@ -4,9 +4,9 @@
 
         $servername = "localhost";
 
-        $username = "root";
+        $username = "****";
 
-        $password = "admin";
+        $password = "****";
 
         $dbname = "meme";
 
